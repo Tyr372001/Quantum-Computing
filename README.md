@@ -1,4 +1,5 @@
 # Quantum-Computing
+\usepackage{amsmath}
 Articles and python codes for the Quantum Computing.
 \section{The Harrow-Hassidim-Lloyd Algorithm}
 \begin{itemize}
