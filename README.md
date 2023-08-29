@@ -1,10 +1,9 @@
 # Quantum-Computing
-\usepackage{amsmath}
-Articles and python codes for the Quantum Computing.
-\section{The Harrow-Hassidim-Lloyd Algorithm}
-\begin{itemize}
-  \item Qustions regarding the HHL Algorithm.
-  \item Bottlenecks.
-  \item Articles on the HHL Algorithm
-  \item Python codes for implementation of the HHL Algorithm
-\end{itemize}
+
+TASK: HARROW-HASSIDIM-LLOYD ALGORITHM
+
+1. Questions regaring the HHL algorithm.
+2. Bottlenecks
+3. Articles
+4. Python implementation
+5. Mathematical proofs and lemmas
